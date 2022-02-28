@@ -1,0 +1,6 @@
+produto,quantidade,total
+banana,3,15
+batata,4,8
+goiaba,3,21
+laranja,2,5
+abacaxi,2,12
